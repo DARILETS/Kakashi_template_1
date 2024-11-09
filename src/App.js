@@ -1,11 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
-import HomePage from "./HomePage/homePage"
+import React from 'react';
 
 function App() {
   return (
     <div>
-      <HomePage/>
+      <h1>YES</h1>
     </div>
   );
 }
